@@ -29,7 +29,7 @@ notebook server:
   a personal notebook server". Ensure **Jupyter Classic (Legacy)** is
   selected and click **Start**.
 
-![Juypter Classic (Legacy) selection screen](!images/Screenshot from 2024-10-09 07-39-56.png)
+![Juypter Classic (Legacy) selection screen](images/Screenshot from 2024-10-09 07-39-56.png)
 
 The clone this repository, using **+GitRepo** button as described in the
 Lab instructions.
