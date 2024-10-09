@@ -6,14 +6,14 @@ This exercise (and Coursework 1) require you to submit a PDF in a
 particular format (see below for details).
 
 The recommended way of generating this format is to use Notable with
-the "Jupyter Classic (Legacy)" notebook server. 
+the **Jupyter Classic (Legacy)** notebook server. 
 
 **Due to an upgrade at the start of Semester 1, the default server in
 Noteable does not work.**
 
 [The instructions for running
 labs](https://opencourse.inf.ed.ac.uk/sites/default/files/2024-09/FDS-Labs.pdf)
-work need to be changed by selecting the "Jupyter Classic (Legacy)"
+work need to be changed by selecting the **Jupyter Classic (Legacy)**
 notebook server:
 
 1. Go to the FDS Learn page and navigate to **Books & Tools**.
@@ -29,18 +29,22 @@ notebook server:
   a personal notebook server". Ensure **Jupyter Classic (Legacy)** is
   selected and click **Start**.
 
-[!Juypter Classic (Legacy) selection screen](images/Screenshot from 2024-10-09 07-39-56.png)
+![Juypter Classic (Legacy) selection screen](!images/Screenshot from 2024-10-09 07-39-56.png)
 
-The clone this repository, using "+GitRepo" button as described in the
+The clone this repository, using **+GitRepo** button as described in the
 Lab instructions.
 
-### How do I get out of the wrong server?
+### How do I get out of the wrong notebook server?
 
 If you have managed to start the standard notebook server
-(JupyterLab), you can switch to the "Jupyter Classic (Legacy)" server
-by clicking on the "Noteable" link at the top right of the screen,
+(JupyterLab), you can switch to the **Jupyter Classic (Legacy)** server
+by clicking on the **Noteable** link at the top right of the screen,
 closing the server and starting Jupyter Classic (Legacy).
 
-[!Notable button](images/Screenshot from 2024-10-09 07-42-34.png)
+![Noteable button](images/Screenshot from 2024-10-09 07-42-34.png)
+
+### The PDF format
+
+
 
 
