@@ -2,7 +2,7 @@
 
 ## Important: how to run Jupyter so you can submit the exercise
 
-This exercise (and Coursework 1) require you to submit a PDF generated in a particular way, which uses LaTeX behind the scenes.
+This exercise (and Coursework 1) require you to submit a PDF to Gradescope. The PDF needs to be generated in a particular way, which uses LaTeX behind the scenes.
 
 The recommended way of generating this format is to use Notable with
 the **Jupyter Classic (Legacy)** notebook server. 
