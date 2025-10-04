@@ -2,8 +2,7 @@
 
 ## Instructions
 
-1. Start Noteable, using the  
- [instructions on
+1. Start Noteable, using the [instructions on
  OpenCourse](https://opencourse.inf.ed.ac.uk/inf2-fds/labs/noteable)
 2. Load in the exercise repository
    `https://github.com/Inf2-FDS/FDS-S1-04-visualisation-exercise/`
@@ -13,4 +12,4 @@
    (`FDS-S1-04-visualisation-exercise.ipynb`) to create a PDF to
    submit.
 4. Submit the PDF using the instructions on Learn in the __Assessment→S1
-   Week 4 Formative visualisation exercise__
+   Week 4 Formative visualisation exercise__ section
