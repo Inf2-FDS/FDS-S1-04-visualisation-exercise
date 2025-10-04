@@ -1,8 +1,16 @@
-# FDS S1 Week 4 Formative visualisation excercise
+# FDS S1 Week 4 Formative visualisation exercise
 
-## Important: how to run Jupyter so you can submit the exercise
+## Instructions
 
-This exercise requires you to submit a PDF to Gradescope. The PDF needs to be generated in a particular way, which uses LaTeX behind the scenes.
-
-The recommended way of generating this format is to [use Noteable, as described in the lab instructions on OpenCourse](https://opencourse.inf.ed.ac.uk/inf2-fds/labs/noteable).
-DS-S1-04-visualisation-exercise/blob/main/images/Screenshot%20from%202024-10-09%2007-42-34.png?raw=true)
+1. Start Noteable, using the  
+ [instructions on
+ OpenCourse](https://opencourse.inf.ed.ac.uk/inf2-fds/labs/noteable)
+2. Load in the exercise repository
+   `https://github.com/Inf2-FDS/FDS-S1-04-visualisation-exercise/`
+   using Git, as described in the [instructions on
+   OpenCourse](https://opencourse.inf.ed.ac.uk/inf2-fds/labs/noteable)
+3. Follow the instructions in the exercise notebook
+   (`FDS-S1-04-visualisation-exercise.ipynb`) to create a PDF to
+   submit.
+4. Submit the PDF using the instructions on Learn in the __Assessment→S1
+   Week 4 Formative visualisation exercise__
